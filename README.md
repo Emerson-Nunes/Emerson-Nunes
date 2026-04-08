@@ -1,5 +1,9 @@
 # Hi there, I'm Emerson Nunes 👋
 
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-nunes&layout=compact)
+
 ### Language and Tools <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
 
 <h3></h3>
