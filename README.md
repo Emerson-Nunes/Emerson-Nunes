@@ -1,8 +1,6 @@
 # Hi there, I'm Emerson Nunes 👋
 
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-nunes&layout=compact)
+I'm 27 an Electrical Engineering and a Full-Stack Web Developer. I'm ready for the challenge, let's do it!
 
 ### Language and Tools <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
 
