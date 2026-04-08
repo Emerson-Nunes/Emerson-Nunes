@@ -39,7 +39,7 @@ I'm Electrical Engineering and a Full-Stack Web Developer and I'm ready for the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
 </a>&nbsp;
 
-<a href="https://angular.io/" style="text-decoration: none; display: inline-block;">
+<a href="https://angular.dev/" style="text-decoration: none; display: inline-block;">
   <img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" width="40"/>
 </a>&nbsp;
 
@@ -50,7 +50,7 @@ I'm Electrical Engineering and a Full-Stack Web Developer and I'm ready for the 
 </a>&nbsp;
 
 <a href="https://nestjs.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://drive.google.com/file/d/1ZmmVw0qDbWwTNyvVB_OzGfwa0ql8ZrhP/view?usp=drive_link" width="40"/>
+  <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="40"/>
 </a>&nbsp;
 
 <!-- Messaging -->
