@@ -40,7 +40,7 @@ I'm Electrical Engineering and a Full-Stack Web Developer and I'm ready for the 
 </a>&nbsp;
 
 <a href="https://angular.dev/" style="text-decoration: none; display: inline-block;">
-  <img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" width="40"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi-512x542.png" width="40"/>
 </a>&nbsp;
 
 <!-- Backend -->
