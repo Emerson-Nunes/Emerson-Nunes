@@ -1,6 +1,7 @@
 # Hi there, I'm Emerson Nunes 👋
 
-I'm 27 an Electrical Engineering and a Full-Stack Web Developer. I'm ready for the challenge, let's do it!
+I'm 27!
+I'm Electrical Engineering and a Full-Stack Web Developer and I'm ready for the challenge, let's do it!
 
 ### Language and Tools <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
 
