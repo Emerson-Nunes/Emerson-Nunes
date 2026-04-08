@@ -39,6 +39,10 @@ I'm Electrical Engineering and a Full-Stack Web Developer and I'm ready for the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
 </a>&nbsp;
 
+<a href="https://angular.io/" style="text-decoration: none; display: inline-block;">
+  <img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" width="40"/>
+</a>&nbsp;
+
 <!-- Backend -->
 
 <a href="https://nodejs.org/en/" style="text-decoration: none; display: inline-block;">
