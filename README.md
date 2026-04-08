@@ -41,7 +41,7 @@
 </a>&nbsp;
 
 <a href="https://nestjs.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="40"/>
 </a>&nbsp;
 
 
