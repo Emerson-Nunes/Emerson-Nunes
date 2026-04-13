@@ -66,7 +66,7 @@ I'm a Electrical Engineer and a Full-Stack Web Developer and I'm ready for the c
 </a>&nbsp;
 
 <a href="https://git-scm.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="40"/>
+  <img src="https://git-scm.com/images/logo@2x.png" width="40"/>
 </a>&nbsp;
 
 <!-- Database -->
