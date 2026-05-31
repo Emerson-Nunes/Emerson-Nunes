@@ -1,102 +1,122 @@
+<div align="center">
+
 # Hi there, I'm Emerson Nunes 👋
+### ⚡ Electrical Engineer · Full-Stack Web Developer
 
-I'm 27!
-I'm a Electrical Engineer and a Full-Stack Web Developer and I'm ready for the challenge, let's do it!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-n-861604127/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emerson.nnds@gmail.com)
 
-### Language and Tools <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
+</div>
 
-<h3></h3>
+---
 
-<!-- Embedded / Low-level -->
+## 👤 About Me
 
-<a href="https://docs.arduino.cc/language-reference/pt/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40"/>
-</a>&nbsp;
+- 🎓 Electrical Engineer turned Full-Stack Developer
+- 🔥 27 years old, passionate about building scalable systems
+- 🚀 Always up for a new challenge
+- 💡 Bridging the gap between hardware and software
 
-<a href="https://www.learn-c.org/" style="text-decoration: none; display: inline-block;">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/51NyeIYt71L.png" width="40"/>
-</a>&nbsp;
+---
 
-<a href="https://www.learncpp.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40"/>
-</a>&nbsp;
+## 🖥️ Frontend
 
-<!-- Frontend -->
+<div align="left">
 
-<a href="https://www.learn-html.org/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40"/>
-</a>&nbsp;
+| Technology | Badge |
+|---|---|
+| HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| Angular | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
 
-<a href="https://web.dev/css" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
-</a>&nbsp;
+</div>
 
-<a href="https://www.javascript.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" width="38"/>
-</a>&nbsp;
+---
 
-<a href="https://www.typescriptlang.org/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
-</a>&nbsp;
+## ⚙️ Backend
 
-<a href="https://angular.dev/" style="text-decoration: none; display: inline-block;">
-  <img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi-512x542.png" width="40"/>
-</a>&nbsp;
+<div align="left">
 
-<!-- Backend -->
+| Technology | Badge |
+|---|---|
+| Node.js | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| NestJS | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
+| Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| RabbitMQ | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
 
-<a href="https://nodejs.org/en/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="40"/>
-</a>&nbsp;
+</div>
 
-<a href="https://nestjs.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="40"/>
-</a>&nbsp;
+---
 
-<!-- Messaging -->
+## 🗄️ Database
 
-<a href="https://www.rabbitmq.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40"/>
-</a>&nbsp;
+<div align="left">
 
-<!-- DevOps -->
+| Technology | Badge |
+|---|---|
+| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
-<a href="https://www.docker.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/>
-</a>&nbsp;
+</div>
 
-<a href="https://git-scm.com/" style="text-decoration: none; display: inline-block;">
-  <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40"/>
-</a>&nbsp;
+---
 
-<!-- Database -->
+## 🤖 AI & Emerging Tech
 
-<a href="https://www.postgresql.org/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width="40"/>
-</a>&nbsp;
+<div align="left">
 
-<!-- Tools -->
+| Technology | Badge |
+|---|---|
+| Claude Code | ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) |
+| Anthropic API | ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
 
-<a href="https://www.postman.com/learn/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
-</a>&nbsp;
+</div>
 
-<a href="https://code.visualstudio.com/docs" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
-</a>&nbsp;
+---
 
-<a href="https://www.python.org/" style="text-decoration: none; display: inline-block;">
-  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="40"/>
-</a>&nbsp;
+## 🛠️ DevOps & Tools
 
-<br>
+<div align="left">
 
-### Social Media:
+| Technology | Badge |
+|---|---|
+| Docker | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) |
+| Git | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Postman | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white) |
+| VS Code | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=emerson.nnds@gmail.com&tf=cm" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20"/>
-</a>&nbsp;
+</div>
 
-<a href="https://www.linkedin.com/in/emerson-n-861604127/" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/>
-</a>
+---
+
+## 🔌 Embedded / Low-Level
+
+<div align="left">
+
+| Technology | Badge |
+|---|---|
+| Arduino | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) |
+| C | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| C++ | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emerson-nnds&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-nnds&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Let's do it!"* 🚀
+
+</div>
