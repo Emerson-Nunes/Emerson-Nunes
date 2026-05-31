@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-- 🎓 Electrical Engineer turned Full-Stack Developer
+- 🎓 Electrical Engineer and a Full-Stack Developer
 - 🔥 27 years old, passionate about building scalable systems
 - 🚀 Always up for a new challenge
 - 💡 Bridging the gap between hardware and software
@@ -30,6 +30,8 @@
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 | Angular | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| React Native | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| Vite | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 
 </div>
 
@@ -83,6 +85,7 @@
 |---|---|
 | Docker | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) |
 | Git | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| GitLab CI/CD | ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 | Postman | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white) |
 | VS Code | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
 
@@ -108,8 +111,8 @@
 
 <div align="center">
 
-![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emerson-nnds&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-nnds&layout=compact&theme=tokyonight&hide_border=true)
+![Emerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emerson-Nunes&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Nunes&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
