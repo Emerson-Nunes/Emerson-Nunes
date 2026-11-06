@@ -11,10 +11,6 @@
 
 </div>
 
----
-
-> 💡 Click on any badge to see my related repositories.
-
 ### 🔧 Hardware
 
 [![Verilog](https://img.shields.io/badge/Verilog-4B8BBE?style=for-the-badge)](https://github.com/Emerson-Nunes?tab=repositories&q=&type=&language=verilog)
